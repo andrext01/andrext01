@@ -42,9 +42,15 @@
 * 🛠️ Full Stack Developer
 * 💼 I’m currently working on **React, Next.js, Angular, Nodejs, Laravel, PHP**
 * 📫 Feel free to reach me out **andrext@utp.edu.co**
-* Creator of [tu-sitio-web](https://www.tu-sitio-web.com)
+* 🚀 Co-creator of [Vcapital](https://www.vcapitaltraders.net/)
 
 <!--Intro end-->
+
+## 📂 Proyectos Destacados
+
+- [**Proyecto 1**](https://github.com/tu-usuario/proyecto1): Breve descripción del proyecto.
+- [**Proyecto 2**](https://github.com/tu-usuario/proyecto2): Breve descripción del proyecto.
+- [**Proyecto 3**](https://github.com/tu-usuario/proyecto3): Breve descripción del proyecto.
 
 
 

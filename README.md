@@ -15,7 +15,8 @@
 <div align="center">
   <img src="https://i.ibb.co/Dz5Rm5r/banner.png" alt="banner" width="1024" height="300"></a>
 </div>
-# 💻 [Tu Nombre] - Full Stack Web Developer
+
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)

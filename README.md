@@ -12,8 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://ibb.co/2WgkRgZ"
-       alt="snake" /></a>
+  <img src="https://ibb.co/2WgkRgZ" alt="Descripción de la imagen" width="500" height="300"></a>
 </div>
 
 

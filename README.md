@@ -124,3 +124,18 @@
 <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+   <div align="center"  class="icons-social" style="margin-left: 10px;">
+     <a style="margin-left: 10px;" target="_blank" href="https://github.com/dexprexxtion">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+     <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/dexprexxtion">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+     <a style="margin-left: 10px;" target="_blank" href="mailto://ketanchowdhury@protonmail.com">
+       <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50">
+
+------
+
+<br>
+

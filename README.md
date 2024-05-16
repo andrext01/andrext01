@@ -47,10 +47,15 @@
 <!--Intro end-->
 
 ## 📂 Proyectos Destacados
-
-- [**Proyecto 1**](https://github.com/tu-usuario/proyecto1): Breve descripción del proyecto.
-- [**Proyecto 2**](https://github.com/tu-usuario/proyecto2): Breve descripción del proyecto.
-- [**Proyecto 3**](https://github.com/tu-usuario/proyecto3): Breve descripción del proyecto.
+<p>
+  <table align="center">
+    <tr border="none">
+    <td width="50%" align="center">
+      <h6>Plataforma de Trading</h6>
+      <img  title="Vcapitalpro trading platform" alt="Mark streak" src="https://i.ibb.co/zPTG5yc/vcapitalpro-Platform.png" /> 
+    </td>
+  </table>
+</p>
 
 
 

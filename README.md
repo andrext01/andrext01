@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://i.ibb.co/Dz5Rm5r/banner.png" alt="Descripción de la imagen" width="1024" height="300"></a>
+  <img src="https://i.ibb.co/LCMSVys/Andr-s-v-lez-banner.png" alt="Descripción de la imagen" width="1024" height="300"></a>
 </div>
 
 

@@ -12,22 +12,28 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://i.ibb.co/Dz5Rm5r/banner.png" alt="Descripción de la imagen" width="1024" height="300"></a>
+  <img src="https://i.ibb.co/Dz5Rm5r/banner.png" alt="banner" width="1024" height="300"></a>
 </div>
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Sobre mi</h2></summary>
   </ul>
 </div>
 
+# 💻 [Tu Nombre] - Full Stack Web Developer
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 💼 I’m currently working on **React, Next.js, Angular, Nodejs, Laravel**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 

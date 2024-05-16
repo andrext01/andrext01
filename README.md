@@ -52,7 +52,7 @@
     <tr border="none">
     <td width="50%" align="center">
       <h6>Plataforma de Trading</h6>
-      <img  title="Vcapitalpro trading platform" alt="Mark streak" src="https://i.ibb.co/zPTG5yc/vcapitalpro-Platform.png" /> 
+      <img  title="Vcapitalpro trading platform" alt="Mark streak" src="https://i.ibb.co/tH63pFg/Vcapitalpro-Platform.png" /> 
     </td>
   </table>
 </p>
